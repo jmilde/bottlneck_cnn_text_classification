@@ -1,5 +1,6 @@
 # bottlneck_cnn_text_classification
-This is a deep CNN architecture with bottleneck CNN for binary text classification
+This is a deep CNN architecture with bottleneck CNN for binary text classification. 
+SentencePiece is used to split the text.
 
 ## Getting Started
 To get the summarizer to work one first has to install requiered libraries and run some preprocessings
@@ -12,6 +13,7 @@ run the following commands in your shell
 ```
 pip install numpy
 pip install tqdm
+pip install sentencepiece
 ```
 The default for all following instructions is to have the project folder as cd.
 
