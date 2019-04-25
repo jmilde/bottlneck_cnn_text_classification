@@ -20,9 +20,9 @@ First run the following commands
 mkdir ./data
 mkdir ./ckpt
 mkdir ./log
+```
 
 ## Preprocess Data
-```
 To test the architecture for hatespeech on tweets, put hate-speech-and-offensive-language/data/labeled_data.csv from 
 ```
 https://github.com/t-davidson/hate-speech-and-offensive-language
